@@ -20,8 +20,9 @@ export class AppComponent implements OnInit {
 
   ngOnInit()
  {
-
+  
   this.setCurrentUser();
+ 
  }
 
  setCurrentUser() {
